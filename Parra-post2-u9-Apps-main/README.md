@@ -24,6 +24,7 @@ screen/product_list_screen.dart ← Widget bajo prueba
 screen/product_card.dart        ← Tarjeta de producto (usada en golden tests)
 main.dart
 test/
+
 widget/
 product_list_screen_test.dart ← 4 widget tests con MockBloc
 golden/
